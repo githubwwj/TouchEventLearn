@@ -32,4 +32,6 @@ public class MainActivity extends AppCompatActivity {  //妈妈
         return eat ? true : super.onTouchEvent(event);
 //        return super.onTouchEvent(event); super.onTouchEvent(event)等于false
     }
+
+
 }

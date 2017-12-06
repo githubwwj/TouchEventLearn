@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {  //妈妈
         setContentView(R.layout.activity_main);
     }
 
-
     //妈妈 MainActivity
     //爸爸 ParentView
     //我   ChildView

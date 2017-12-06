@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {  //妈妈
     //妈妈 MainActivity
     //爸爸 ParentView
     //我   ChildView
-    //一个事假相当于一个苹果
+    //一个事件相当于一个苹果
     @Override
     public boolean dispatchTouchEvent(MotionEvent ev) {  //妈妈
         Log.v(TAG, "====dispatchTouchEvent======妈妈拿到了苹果，想分享给爸爸====");
